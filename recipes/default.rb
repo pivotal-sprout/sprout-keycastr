@@ -1,8 +1,0 @@
-include_recipe 'sprout-keycastr::install'
-include_recipe 'sprout-keycastr::enable_accessibility'
-include_recipe 'sprout-keycastr::start_on_startup'
-include_recipe 'sprout-keycastr::suppressed_first_time_launch_dialog'
-include_recipe 'sprout-keycastr::only_cast_command_keys'
-include_recipe 'sprout-keycastr::suppressed_preferences_on_launch'
-include_recipe 'sprout-keycastr::adjusted_font_size'
-include_recipe 'sprout-keycastr::autocheck_updates'
